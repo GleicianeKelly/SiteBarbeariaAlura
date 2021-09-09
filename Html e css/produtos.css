@@ -1,0 +1,30 @@
+header{
+    background: grey;
+}
+
+
+.imagemUm{
+    width: 20%;
+    height: 10%;
+}
+
+nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+   
+}
+
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav  a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none ;
+}
